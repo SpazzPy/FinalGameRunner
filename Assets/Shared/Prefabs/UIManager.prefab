@@ -506,6 +506,11 @@ PrefabInstance:
       propertyPath: m_AnchorMin.x
       value: 0.1
       objectReference: {fileID: 0}
+    - target: {fileID: 6542041788939907388, guid: 3c7a51309061d411eb5591ed1fd837f3,
+        type: 3}
+      propertyPath: m_text
+      value: 'Oro:'
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3c7a51309061d411eb5591ed1fd837f3, type: 3}
 --- !u!224 &2404344050809350670 stripped
@@ -521,6 +526,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5280667181393737275}
     m_Modifications:
+    - target: {fileID: 2942234272592419793, guid: 54814bc3b927146708f6d9559a750bed,
+        type: 3}
+      propertyPath: m_text
+      value: RANDOM
+      objectReference: {fileID: 0}
+    - target: {fileID: 4571720081652594344, guid: 54814bc3b927146708f6d9559a750bed,
+        type: 3}
+      propertyPath: m_text
+      value: Elige Un Nivel
+      objectReference: {fileID: 0}
+    - target: {fileID: 4571720081652594344, guid: 54814bc3b927146708f6d9559a750bed,
+        type: 3}
+      propertyPath: m_fontStyle
+      value: 33
+      objectReference: {fileID: 0}
     - target: {fileID: 4571720081935651430, guid: 54814bc3b927146708f6d9559a750bed,
         type: 3}
       propertyPath: m_Name
@@ -781,6 +801,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5280667181393737275}
     m_Modifications:
+    - target: {fileID: 864111320900930146, guid: 159a6cc7f4f464a5bbeb1410c075eed1,
+        type: 3}
+      propertyPath: m_text
+      value: Jugar
+      objectReference: {fileID: 0}
     - target: {fileID: 864111321475162454, guid: 159a6cc7f4f464a5bbeb1410c075eed1,
         type: 3}
       propertyPath: m_Name
@@ -896,6 +921,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 864111321492093205, guid: 159a6cc7f4f464a5bbeb1410c075eed1,
+        type: 3}
+      propertyPath: m_text
+      value: Pausado
+      objectReference: {fileID: 0}
+    - target: {fileID: 864111322319273641, guid: 159a6cc7f4f464a5bbeb1410c075eed1,
+        type: 3}
+      propertyPath: m_text
+      value: Salir
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 159a6cc7f4f464a5bbeb1410c075eed1, type: 3}
 --- !u!224 &2404344049447483454 stripped
@@ -911,15 +946,40 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5280667181393737275}
     m_Modifications:
+    - target: {fileID: 504096221752360748, guid: 68331e8ed1ba047cfaf90cba53534538,
+        type: 3}
+      propertyPath: m_Text
+      value: Musica
+      objectReference: {fileID: 0}
+    - target: {fileID: 1101163010876722681, guid: 68331e8ed1ba047cfaf90cba53534538,
+        type: 3}
+      propertyPath: m_text
+      value: Medio
+      objectReference: {fileID: 0}
     - target: {fileID: 1939557351253320413, guid: 68331e8ed1ba047cfaf90cba53534538,
         type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2759343665481692952, guid: 68331e8ed1ba047cfaf90cba53534538,
+        type: 3}
+      propertyPath: m_text
+      value: Volumen
+      objectReference: {fileID: 0}
     - target: {fileID: 3509905192116047799, guid: 68331e8ed1ba047cfaf90cba53534538,
         type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6406323513827748352, guid: 68331e8ed1ba047cfaf90cba53534538,
+        type: 3}
+      propertyPath: m_text
+      value: Alto
+      objectReference: {fileID: 0}
+    - target: {fileID: 7471801080763017964, guid: 68331e8ed1ba047cfaf90cba53534538,
+        type: 3}
+      propertyPath: m_text
+      value: Caquita
       objectReference: {fileID: 0}
     - target: {fileID: 7494011021455744340, guid: 68331e8ed1ba047cfaf90cba53534538,
         type: 3}
@@ -1036,6 +1096,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7510809188830820601, guid: 68331e8ed1ba047cfaf90cba53534538,
+        type: 3}
+      propertyPath: m_text
+      value: Atras
+      objectReference: {fileID: 0}
+    - target: {fileID: 7510809188884508269, guid: 68331e8ed1ba047cfaf90cba53534538,
+        type: 3}
+      propertyPath: m_text
+      value: Menu de Ajustes
+      objectReference: {fileID: 0}
     - target: {fileID: 7840205070381570503, guid: 68331e8ed1ba047cfaf90cba53534538,
         type: 3}
       propertyPath: m_AnchorMax.y
@@ -1056,6 +1126,16 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5280667181393737275}
     m_Modifications:
+    - target: {fileID: 8405303143681145577, guid: 40139ea1ff26440b7b92d88cbb11a45c,
+        type: 3}
+      propertyPath: m_text
+      value: Ajustes
+      objectReference: {fileID: 0}
+    - target: {fileID: 8405303143934288728, guid: 40139ea1ff26440b7b92d88cbb11a45c,
+        type: 3}
+      propertyPath: m_text
+      value: Juego de correr
+      objectReference: {fileID: 0}
     - target: {fileID: 8405303144418417604, guid: 40139ea1ff26440b7b92d88cbb11a45c,
         type: 3}
       propertyPath: m_Pivot.x
@@ -1165,6 +1245,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: MainMenu
+      objectReference: {fileID: 0}
+    - target: {fileID: 8405303144825247125, guid: 40139ea1ff26440b7b92d88cbb11a45c,
+        type: 3}
+      propertyPath: m_text
+      value: Tienda
+      objectReference: {fileID: 0}
+    - target: {fileID: 8405303144898691113, guid: 40139ea1ff26440b7b92d88cbb11a45c,
+        type: 3}
+      propertyPath: m_text
+      value: Inicio
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 40139ea1ff26440b7b92d88cbb11a45c, type: 3}
@@ -1291,6 +1381,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5059020167809214362, guid: 70d41197f50244f5e87eccd5c89bb5d9,
+        type: 3}
+      propertyPath: m_text
+      value: Tienda
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 70d41197f50244f5e87eccd5c89bb5d9, type: 3}
 --- !u!224 &2404344050334339790 stripped
@@ -1306,6 +1401,16 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 5280667181393737275}
     m_Modifications:
+    - target: {fileID: 5464304627979593776, guid: 00e4640835693420fb50752e3cc78323,
+        type: 3}
+      propertyPath: m_text
+      value: Siguiente Nivel
+      objectReference: {fileID: 0}
+    - target: {fileID: 5464304628974184184, guid: 00e4640835693420fb50752e3cc78323,
+        type: 3}
+      propertyPath: m_text
+      value: NIVEL COMPLETADO!
+      objectReference: {fileID: 0}
     - target: {fileID: 5464304629124346698, guid: 00e4640835693420fb50752e3cc78323,
         type: 3}
       propertyPath: m_Pivot.x
@@ -1431,6 +1536,46 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 472289200663523460}
     m_Modifications:
+    - target: {fileID: 5869882798794461456, guid: 94d08068f27f54858beac9871bf3602f,
+        type: 3}
+      propertyPath: m_text
+      value: Corriendo como el diablo
+      objectReference: {fileID: 0}
+    - target: {fileID: 5869882798794461456, guid: 94d08068f27f54858beac9871bf3602f,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 51.58
+      objectReference: {fileID: 0}
+    - target: {fileID: 5869882798794461456, guid: 94d08068f27f54858beac9871bf3602f,
+        type: 3}
+      propertyPath: m_fontStyle
+      value: 33
+      objectReference: {fileID: 0}
+    - target: {fileID: 5869882798794461456, guid: 94d08068f27f54858beac9871bf3602f,
+        type: 3}
+      propertyPath: m_fontColor.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5869882798794461456, guid: 94d08068f27f54858beac9871bf3602f,
+        type: 3}
+      propertyPath: m_fontColor.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5869882798794461456, guid: 94d08068f27f54858beac9871bf3602f,
+        type: 3}
+      propertyPath: m_fontColor.r
+      value: 0.18432426
+      objectReference: {fileID: 0}
+    - target: {fileID: 5869882798794461456, guid: 94d08068f27f54858beac9871bf3602f,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 51.58
+      objectReference: {fileID: 0}
+    - target: {fileID: 5869882798794461456, guid: 94d08068f27f54858beac9871bf3602f,
+        type: 3}
+      propertyPath: m_TextStyleHashCode
+      value: -1183493901
+      objectReference: {fileID: 0}
     - target: {fileID: 5869882799813137961, guid: 94d08068f27f54858beac9871bf3602f,
         type: 3}
       propertyPath: m_Pivot.x
